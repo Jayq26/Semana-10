@@ -138,13 +138,6 @@ img{
     }
 }
 
-.hero{
-    min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)),url('hero.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
 
 /* Fin - Cabeza */
 
