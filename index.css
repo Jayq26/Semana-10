@@ -18,7 +18,7 @@ body{
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgba(255, 255, 255, 0.20);
+    background-color: rgba(0, 0, 0, 0.863);
     padding: 0 10%;
     display: flex;
     align-items: center;
@@ -63,7 +63,7 @@ body{
     position: absolute;
     right: 0;
     width: 300px;
-    background-color: rgba(255, 255, 255, 0.20);
+    background-color: rgba(0, 0, 0, 0.863);
     display: none;
 }
 .header .navigation ul li ul li a{
@@ -106,7 +106,7 @@ img{
         top: 100%;
         left: 0;
         right: 0;
-        background-color: rgba(255, 255, 255, 0.20);
+        background-color: rgba(0, 0, 0, 0.863);
         display: none;
     }
     .header .navigation ul li{
